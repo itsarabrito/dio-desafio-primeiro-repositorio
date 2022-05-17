@@ -1,0 +1,11 @@
+Command Line Interface / CLI - Git
+Git: Sistema de versionamento de código distribuido.
+
+Git init - inicializa um novo repositório;
+Git status - verifica a situação do local;
+Git add . - adiciona as mudanças;
+Git commit -m "mensagem" - comita as mudanças para o GutHub;
+Git push origin head - Envia as informações pro GitHub;
+Git clone - Clona o que foi criado ou modificado no GitHub para o PC;
+Git checkout - Check;
+Git pull - Puxa as informações do GutHub; 
